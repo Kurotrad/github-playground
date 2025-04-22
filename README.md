@@ -1,2 +1,2 @@
 # github-playground
-no
+Learning GitHub is cool!
